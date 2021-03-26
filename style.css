@@ -1,0 +1,145 @@
+.navbar li {
+  list-style: none;
+  margin: 50px;
+  display: inline;
+  color: white;
+}
+.navbar {
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  padding-top: 30px;
+  margin-top: 0px;
+}
+nav {
+  background-color: rgba(0, 0, 0, 0.6);
+  margin-top: 0px;
+}
+body {
+  margin-top: 0px;
+}
+header {
+  background-color: cadetblue;
+}
+.information {
+  display: flex;
+  margin-left: 180px;
+  padding: 40px;
+}
+.information li {
+  font-size: 35px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  list-style: none;
+  line-height: 80px;
+}
+.information img {
+  width: 500px;
+  height: 400px;
+}
+#about h1 {
+  background-color: rgba(0, 0, 0, 0.3);
+  font-size: 50px;
+  height: 80px;
+  padding-top: 30px;
+  padding-left: 10px;
+}
+#academic h1 {
+  background-color: rgba(0, 0, 0, 0.3);
+  font-size: 40px;
+  height: 80px;
+  padding-top: 30px;
+  padding-left: 10px;
+}
+#academic td {
+  height: 60px;
+  text-align: center;
+}
+.wid {
+  width: 1000px;
+}
+.wit {
+  width: 200px;
+}
+
+#academic table {
+  margin-left: 150px;
+  border-color: rgb(10, 127, 223);
+}
+#professional h1 {
+  background-color: rgba(0, 0, 0, 0.3);
+  font-size: 40px;
+  height: 80px;
+  padding-top: 30px;
+  padding-left: 10px;
+}
+.titre {
+  font-size: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: cadetblue;
+  font-weight: bold;
+}
+
+#professional dd {
+  font-size: 20px;
+  line-height: 50px;
+}
+#skills h1 {
+  background-color: rgba(0, 0, 0, 0.3);
+  font-size: 40px;
+  height: 80px;
+  padding-top: 30px;
+  padding-left: 10px;
+}
+
+#skills h3 {
+  font-size: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: cadetblue;
+  font-weight: bold;
+}
+.skills td {
+  height: 60px;
+  text-align: center;
+  width: 600px;
+  font-size: 24px;
+}
+#contact h1 {
+  background-color: rgba(0, 0, 0, 0.3);
+  font-size: 40px;
+  height: 80px;
+  padding-top: 30px;
+  padding-left: 10px;
+}
+form {
+  border-radius: 10px;
+  background-color: rgb(30, 71, 44, 0.2);
+  margin-left: 400px;
+  width: 500px;
+  height: 300px;
+  line-height: 70px;
+  padding: 80px;
+}
+.video h1 {
+  background-color: rgba(0, 0, 0, 0.3);
+  font-size: 40px;
+  height: 80px;
+  padding-top: 30px;
+  padding-left: 10px;
+}
+iframe {
+  margin-left: 320px;
+}
+footer {
+  display: flex;
+  padding-left: 380px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: black;
+  color: white;
+}
+footer a{
+    margin-left: 50px;
+    margin-right: 100px;
+    text-align: center;
+}
